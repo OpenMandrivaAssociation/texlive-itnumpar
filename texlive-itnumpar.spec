@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-itnumpar
 Version:	1.0
-Release:	3
+Release:	4
 Summary:	Spell numbers in words (Italian)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/itnumpar
