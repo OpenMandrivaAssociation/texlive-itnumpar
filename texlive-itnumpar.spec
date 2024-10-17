@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Spell numbers in words (Italian)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/itnumpar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/itnumpar
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/itnumpar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/itnumpar.doc.r%{version}.tar.xz
